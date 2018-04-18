@@ -101,9 +101,9 @@ class Sidebar extends Component {
         return(
             <aside>
                 <div>
-                    <h2>Sub Menu</h2>
+                    <h2>Helpfull Links</h2>
+                    <Menu />
                 </div>
-                <Menu />
             </aside>
         );
     }
